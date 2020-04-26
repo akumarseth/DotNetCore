@@ -1,0 +1,13 @@
+D:\DotNetCore\API_CodeFirst\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\DotNetCore\API_CodeFirst\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\DotNetCore\API_CodeFirst\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\DotNetCore\API_CodeFirst\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\DotNetCore\API_CodeFirst\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\DotNetCore\API_CodeFirst\DataAccess\bin\Debug\netcoreapp3.1\DataModel.dll
+D:\DotNetCore\API_CodeFirst\DataAccess\bin\Debug\netcoreapp3.1\DataModel.pdb
+D:\DotNetCore\API_CodeFirst\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+D:\DotNetCore\API_CodeFirst\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\DotNetCore\API_CodeFirst\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\DotNetCore\API_CodeFirst\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+D:\DotNetCore\API_CodeFirst\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\DotNetCore\API_CodeFirst\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

@@ -1,0 +1,54 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Visual Studio Code
+.vscode
+
+# Rider
+.idea
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2019
+.vs/
+
+# Build results API_CodeFirst
+ API_CodeFirst/API_CodeFirst/debug/
+ API_CodeFirst/API_CodeFirst/debugPublic/
+ API_CodeFirst/API_CodeFirst/release/
+ API_CodeFirst/API_CodeFirst/releases/
+ API_CodeFirst/API_CodeFirst/x64/
+ API_CodeFirst/API_CodeFirst/x86/
+ API_CodeFirst/API_CodeFirst/build/
+ API_CodeFirst/API_CodeFirst/bld/
+ API_CodeFirst/API_CodeFirst/bin/
+ API_CodeFirst/API_CodeFirst/obj/
+ API_CodeFirst/API_CodeFirst/out/
+ API_CodeFirst/API_CodeFirst/msbuild.log
+ API_CodeFirst/API_CodeFirst/msbuild.err
+ API_CodeFirst/API_CodeFirst/msbuild.wrn
+API_CodeFirst/API_CodeFirst/bin/Debug/

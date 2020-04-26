@@ -1,0 +1,17 @@
+D:\DotNetCore\API_CodeFirst\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\DotNetCore\API_CodeFirst\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\DotNetCore\API_CodeFirst\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\DotNetCore\API_CodeFirst\Infrastructure\bin\Debug\netcoreapp3.1\BusinessAccess.dll
+D:\DotNetCore\API_CodeFirst\Infrastructure\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\DotNetCore\API_CodeFirst\Infrastructure\bin\Debug\netcoreapp3.1\DataModel.dll
+D:\DotNetCore\API_CodeFirst\Infrastructure\bin\Debug\netcoreapp3.1\ViewModel.dll
+D:\DotNetCore\API_CodeFirst\Infrastructure\bin\Debug\netcoreapp3.1\BusinessAccess.pdb
+D:\DotNetCore\API_CodeFirst\Infrastructure\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\DotNetCore\API_CodeFirst\Infrastructure\bin\Debug\netcoreapp3.1\ViewModel.pdb
+D:\DotNetCore\API_CodeFirst\Infrastructure\bin\Debug\netcoreapp3.1\DataModel.pdb
+D:\DotNetCore\API_CodeFirst\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\DotNetCore\API_CodeFirst\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\DotNetCore\API_CodeFirst\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\DotNetCore\API_CodeFirst\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\DotNetCore\API_CodeFirst\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\DotNetCore\API_CodeFirst\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

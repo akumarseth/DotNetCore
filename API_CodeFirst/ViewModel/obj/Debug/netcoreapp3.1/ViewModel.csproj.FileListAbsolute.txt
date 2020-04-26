@@ -1,0 +1,8 @@
+D:\DotNetCore\API_CodeFirst\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.deps.json
+D:\DotNetCore\API_CodeFirst\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.dll
+D:\DotNetCore\API_CodeFirst\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.pdb
+D:\DotNetCore\API_CodeFirst\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csprojAssemblyReference.cache
+D:\DotNetCore\API_CodeFirst\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfoInputs.cache
+D:\DotNetCore\API_CodeFirst\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfo.cs
+D:\DotNetCore\API_CodeFirst\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.dll
+D:\DotNetCore\API_CodeFirst\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.pdb
