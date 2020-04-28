@@ -6,8 +6,6 @@ using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 using BusinessAccess.IServices;
-using Infrastructure;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;

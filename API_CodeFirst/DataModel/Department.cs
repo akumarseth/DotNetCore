@@ -8,10 +8,6 @@ namespace DataModel
     public class Department:BaseEntity
     {
         public string Name { get; set; }
-        public Guid EmployeeID { get; set; }
-
-        [ForeignKey("EmployeeID")]
-        public Employee Employee { get; set; }
 
     }
 }

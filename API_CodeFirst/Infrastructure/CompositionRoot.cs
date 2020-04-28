@@ -4,7 +4,6 @@ using DataAccess;
 using DataAccess.IRepositories;
 using DataAccess.Repositories;
 using DataAccess.UnitOfWork;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -21,7 +20,8 @@ namespace Infrastructure
 
         public static void InjectDependencies(IServiceCollection services, IConfiguration configuration)
         {
-            services.AddDbContext<ApplicationDBContext>(opts => opts.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<ApplicationDBContext>(opts => opts.UseInMemoryDatabase("database"));
+            //services.AddDbContext<ApplicationDBContext>(opts => opts.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped<ApplicationDBContext>();
 
             services.AddTransient<IUserService, UserService>();
