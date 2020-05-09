@@ -1,8 +1,0 @@
-D:\DotNetCore\API_CodeFirst\DataModel\bin\Debug\netcoreapp3.1\DataModel.deps.json
-D:\DotNetCore\API_CodeFirst\DataModel\bin\Debug\netcoreapp3.1\DataModel.dll
-D:\DotNetCore\API_CodeFirst\DataModel\bin\Debug\netcoreapp3.1\DataModel.pdb
-D:\DotNetCore\API_CodeFirst\DataModel\obj\Debug\netcoreapp3.1\DataModel.csprojAssemblyReference.cache
-D:\DotNetCore\API_CodeFirst\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfoInputs.cache
-D:\DotNetCore\API_CodeFirst\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfo.cs
-D:\DotNetCore\API_CodeFirst\DataModel\obj\Debug\netcoreapp3.1\DataModel.dll
-D:\DotNetCore\API_CodeFirst\DataModel\obj\Debug\netcoreapp3.1\DataModel.pdb
